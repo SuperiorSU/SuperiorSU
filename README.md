@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm , a Computer Science Engineering student passionate about exploring the vast landscape of technologies that surround us. 🌟 Currently, I'm on an exciting journey, delving into various aspects of computer science and engineering.
+I'm Kumar Sujal, a Computer Science Engineering student passionate about exploring the vast landscape of technologies that surround us. 🌟 Currently, I'm on an exciting journey, delving into various aspects of computer science and engineering.
 
 ## About Me
 - 🎓 Currently pursuing a degree in Computer Science Engineering.
