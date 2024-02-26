@@ -46,6 +46,9 @@ Let's connect and explore the world of technology together! Feel free to reach o
 
 - <a href = "https://www.linkedin.com/in/kumar-sujal-b801a6275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href = "https://www.instagram.com/__kr_sujal?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+- <a href = "https://twitter.com/Sujal019"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+- <a href = "https://www.reddit.com/user/SuperiorSu19/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+- <a href = "https://in.pinterest.com/kirito196/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white"></a>
 
 
 
