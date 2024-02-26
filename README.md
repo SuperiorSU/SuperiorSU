@@ -37,6 +37,9 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 <a href = ""><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"></a>
 <a href = ""><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
 
+## Coding Platforms/Profiles
+- <a href = "https://www.hackerrank.com/profile/sujalsinha2001"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+- <a href = "https://leetcode.com/Kr_Sujal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 
 ## Connect with Me
 Let's connect and explore the world of technology together! Feel free to reach out:
