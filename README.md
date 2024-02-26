@@ -15,6 +15,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - 💻 Passionate about programming: Achieved 4 stars in **C++** on HackerRank, solved over **400+** questions on **Coding Ninjas Studios**, and **70+** on **LeetCode**.
 - 🐍 Intermediate knowledge of **C++**, **C**, **Python**.
 - 📚 Worked with various Python libraries such as **Tkinter**, **PyQt5**, **PyMySQL**, **Matplotlib**, etc.
+- ➡️ Currently working on my banckend skills with **MongoDB**, **Express.JS** and **Node.JS**
 
 ## Tech Stack
 <a href = ""><img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"></a>
