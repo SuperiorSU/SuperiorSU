@@ -31,6 +31,10 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 <a href = ""><img src="https://camo.githubusercontent.com/9b0fee2fa46ec8c9aad0b8f58b6f99b3e029ae4bf65a3be6f25433d72a069213/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465"></a>
 <a href = ""><img src="https://camo.githubusercontent.com/1afbc83deafaffa8d38322f379e88e56fd29d9ee1146429e6bb7ad2678fb1460/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465"></a>
 <a href = ""><img src="https://camo.githubusercontent.com/06d936bcad9d3f9d0e611e9afa230ebdefcac4074b7d97c425a3346495db190c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"></a>
+<a href = ""><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+<a href = ""><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"></a>
+<a href = ""><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"></a>
+<a href = ""><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
 
 
 ## Connect with Me
