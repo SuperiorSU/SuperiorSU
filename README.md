@@ -36,12 +36,9 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 ## Connect with Me
 Let's connect and explore the world of technology together! Feel free to reach out:
 
-- 📧 Email: sujalsinha2001@gmail.com
-- 💼 LinkedIn: 
-- 🌐 Instagram: 
 - <a href = "https://www.linkedin.com/in/kumar-sujal-b801a6275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href = "https://www.instagram.com/__kr_sujal?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-- <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- <a href = "sujalsinha2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 Looking forward to connecting with fellow enthusiasts and innovators! 😊✨
