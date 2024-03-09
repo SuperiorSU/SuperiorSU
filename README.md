@@ -13,7 +13,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - 🌐 Experience with **MySQL**, **Firebase Hosting** and **Hostinger** Web Hosting and **Website Management**.
 - 🤖 Experience with different **APIs**.
 - 💼 Worked on various live projects, gaining practical experience in software development.
-- 💻 Passionate about programming: Achieved 4 stars in **C++** on HackerRank, solved over **400+** questions on **Coding Ninjas Studios**, and **70+** on **LeetCode**.
+- 💻 Passionate about programming: Achieved 4 stars in **C++** on HackerRank, 2 Stars in **Python** solved over **400+** questions on **Coding Ninjas Studios**, A **Grand Master League** Coder on **Coding Ninjas Studios** ,**70+** on **LeetCode**, 4+ **Coding Certifications**.
 - 🐍 Intermediate knowledge of **C++**, **C**, **Python**.
 - 📚 Worked with various Python libraries such as **Tkinter**, **PyQt5**, **PyMySQL**, **Matplotlib**, etc.
 - ➡️ Currently working on my backend skills with **MongoDB**, **Express.JS** and **Node.JS**
