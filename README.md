@@ -50,6 +50,8 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - <a href = "https://leetcode.com/Kr_Sujal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 - <a href = "https://www.cloudskillsboost.google/public_profiles/9d0fa969-73a5-401f-bedc-18f0d42a8059"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 
+## My Badges
+<a href = ""><img src="https://learn.microsoft.com/api/achievements/share/en-us/KumarSujal-2156/F2RLGG7X?sharingId=5940B4E6CE529D28"></a>
 
 ## Connect with Me
 Let's connect and explore the world of technology together! Feel free to reach out:
