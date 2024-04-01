@@ -51,7 +51,10 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - <a href = "https://www.cloudskillsboost.google/public_profiles/9d0fa969-73a5-401f-bedc-18f0d42a8059"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 
 ## My Badges
-<img src="https://learn.microsoft.com/training/achievements/github/introduction-to-github.svg">
+<a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg"></a>
+<a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg"></a>
+<a href=""><img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg"></a>
+<a href=""><img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg"></a>
 
 ## Connect with Me
 Let's connect and explore the world of technology together! Feel free to reach out:
