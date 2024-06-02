@@ -9,7 +9,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - 🔍 Always eager to explore new ideas and opportunities in the tech world.
 
 ## Skills and Experience
-- 🚀 Proficient in **Web Development** with **React.Js**, **Next.Js**,**Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Bootstrap**, **HTML 5**, **CSS3**, and **JavaScript**.
+- 🚀 Proficient in **Web Development** with **React.Js**, **Next.Js**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Bootstrap**, **HTML 5**, **CSS3**, and **JavaScript**.
 - 🌐 Experience with **MySQL**, **Firebase Hosting** and **Hostinger** Web Hosting and **Website Management**.
 - 🤖 Experience with different **APIs**.
 - 💼 Worked on various **Live Projects** and **Personal Projects**, gaining practical experience in software development.
