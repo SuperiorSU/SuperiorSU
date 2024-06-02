@@ -3,20 +3,20 @@
 I'm Kumar Sujal, a Computer Science Engineering student passionate about exploring the vast landscape of technologies that surround us. 🌟 Currently, I'm on an exciting journey, delving into various aspects of computer science and engineering.
 
 ## About Me
-- 🎓 Currently pursuing a degree in Computer Science Engineering.
+- 🎓 Currently pursuing a degree in Computer Science and Engineering.
 - 💻 Enthusiastic about software development, algorithms, and emerging technologies.
 - 🌱 Constantly learning and expanding my knowledge base.
 - 🔍 Always eager to explore new ideas and opportunities in the tech world.
 
 ## Skills and Experience
-- 🚀 Proficient in **Web Development** with **React.Js**, **Next.Js** **Tailwind CSS**, **Bootstrap**, **HTML 5**, **CSS**, and **JavaScript**.
+- 🚀 Proficient in **Web Development** with **React.Js**, **Next.Js**,**Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, **Bootstrap**, **HTML 5**, **CSS3**, and **JavaScript**.
 - 🌐 Experience with **MySQL**, **Firebase Hosting** and **Hostinger** Web Hosting and **Website Management**.
 - 🤖 Experience with different **APIs**.
-- 💼 Worked on various live projects, gaining practical experience in software development.
+- 💼 Worked on various **Live Projects** and **Personal Projects**, gaining practical experience in software development.
 - 💻 Passionate about programming: Achieved 4 stars in **C++** on HackerRank, 2 Stars in **Python** solved over **400+** questions on **Coding Ninjas Studios**, A **Grand Master League** Coder on **Coding Ninjas Studios** ,**70+** questions on **LeetCode** and 4 **Coding Certifications**.
 - 🐍 Intermediate knowledge of **C++**, **C**, **Python**.
 - 📚 Worked with various Python libraries such as **Tkinter**, **PyQt5**, **PyMySQL**, **Matplotlib**, etc.
-- ➡️ Currently working on my backend skills with **MongoDB**, **Express.JS** and **Node.JS**
+- ➡️ Currently working on **Blockchain**
 
 ## Tech Stack
 <a href = ""><img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"></a>
