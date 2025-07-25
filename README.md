@@ -19,7 +19,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - ➡️ Currently working on **Blockchain**
 
 ## Tech Stack and Tools
-<p align="center">
+<p align="start">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,flask,java,git,github,vscode,tailwind,firebase,vercel,postman,thunderclient,expo,androidstudio,figma,redux,materialui,docker,kubernetes,jwt,linux,wordpress,xampp,axios,chatgpt,gcp,restapi,graphql,systemdesign"
