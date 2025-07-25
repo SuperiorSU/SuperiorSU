@@ -18,6 +18,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - 📚 Worked with various Python libraries such as **Tkinter**, **PyQt5**, **PyMySQL**, **Matplotlib**, etc.
 - ➡️ Currently working on **Blockchain**
 
+## Tech Stack and Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
