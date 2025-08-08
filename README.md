@@ -16,7 +16,7 @@ I'm Kumar Sujal, a Computer Science Engineering student passionate about explori
 - 💻 Passionate about programming: Achieved 4 stars in **C++** on HackerRank, 2 Stars in **Python** solved over **400+** questions on **Coding Ninjas Studios**, A **Grand Master League** Coder on **Coding Ninjas Studios** ,**70+** questions on **LeetCode** and 4 **Coding Certifications**.
 - 🐍 Intermediate knowledge of **C++**, **C**, **Python**.
 - 📚 Worked with various Python libraries such as **Tkinter**, **PyQt5**, **PyMySQL**, **Matplotlib**, etc.
-- ➡️ Currently working on **Blockchain**
+- ➡️ Currently working on **AWS and Machine Learning**
 
 ## Tech Stack and Tools
 <p align="start">
